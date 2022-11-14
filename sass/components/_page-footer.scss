@@ -16,9 +16,8 @@
 .address__item{
     display: block;
 
-
- & + & {
-    margin-top: 9px;
+    & + & {
+     margin-top: 9px;
  }
 }
 

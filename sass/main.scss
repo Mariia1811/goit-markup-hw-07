@@ -1,6 +1,6 @@
 @import './utils/modern-normalize';
 @import './utils/variables';
-@import './utils/reset';
+@import './utils/hidden';
 @import './utils/base';
 @import './components/section';
 @import './components/grid';
@@ -15,4 +15,5 @@
 @import './components/section-costomers';
 @import './components/page-footer';
 @import './components/modal';
+@import './components/form-modal';
 @import './components/section-portfolio';
